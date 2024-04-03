@@ -1,0 +1,20 @@
+{
+  "name": "libaocai/snoopy",
+  "description": "a PHP class that simulates a web browser.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "libaocai90",
+      "email": "oracle_lee@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Laravel\\Snoopy\\": "src"}
+  },
+  "autoload-dev": {
+    "psr-4": {"Laravel\\Snoopy\\": "src"}
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
